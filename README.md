@@ -4,5 +4,5 @@ Using surveillance cameras and the implementation of social distancing monitorin
 
 ## System Overview
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74137136/154837668-e3da788e-8f5a-4d01-bdbb-03cc467d2191.jpg" alt="animated" width="800"/>
+  <img src="https://user-images.githubusercontent.com/74137136/154837668-e3da788e-8f5a-4d01-bdbb-03cc467d2191.jpg" alt="animated" width="850"/>
 </p>
