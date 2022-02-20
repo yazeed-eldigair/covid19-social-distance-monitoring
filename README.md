@@ -3,3 +3,6 @@ Ever since the COVID-19 outbreak, all science disciplines have taken the initiat
 Using surveillance cameras and the implementation of social distancing monitoring algorithms, contact tracing can become significantly easier and more reliable.
 
 ## System Overview
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74137136/154837668-e3da788e-8f5a-4d01-bdbb-03cc467d2191.jpg" alt="animated" />
+</p>
