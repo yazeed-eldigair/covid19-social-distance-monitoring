@@ -1,8 +1,3 @@
-%%  Computer Vision Project
-%   Spring 2020
-%   Yazeed Eldigair
-%   1074120
-
 function socialMonitoring()
 [birdsEye,sensor] = createBirdsEyeObject();
 obj = setupSystemObjects();
