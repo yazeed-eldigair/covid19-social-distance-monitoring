@@ -3,7 +3,9 @@ A social distancing monitoring system developed in MATLAB. Pedestrians from a su
 ## [Download Research Paper](https://drive.google.com/uc?export=download&id=1DZcpzx8U7ZjI-6sCbALl8MjQ4DADTPRM)
 ## Demo
 <p align="center">
-https://user-images.githubusercontent.com/74137136/160369663-fb6b7731-9ae6-4b52-96a6-3ea0c76d3dd4.mp4
+  <video>
+    <source src="https://user-images.githubusercontent.com/74137136/160369663-fb6b7731-9ae6-4b52-96a6-3ea0c76d3dd4.mp4" type="video/mp4">
+  </video>
 </p>
 ## System Overview
 <p align="center">
